@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1087781033481",
+    "project_id": "react-native-demo-35392",
+    "storage_bucket": "react-native-demo-35392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087781033481:android:f5e9796bc9cd4db0274ad8",
+        "android_client_info": {
+          "package_name": "kem.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087781033481-e0pctkthuvftaus1dv8sji1240od6lim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kem.demo",
+            "certificate_hash": "4af5615a92c6ef225e104e291cd278fd7bf527b6"
+          }
+        },
+        {
+          "client_id": "1087781033481-1l5sb20c998tl1g0ekpvfcllethieptt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfmeP2CuRCMKNQ6QlBBbFwhkwhvrfjYJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087781033481-1l5sb20c998tl1g0ekpvfcllethieptt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087781033481-rh1n9kbpso7mmi23i5jq2cjjnd9cgaal.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kem.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
